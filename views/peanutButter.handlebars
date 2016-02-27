@@ -1,0 +1,31 @@
+<h1>Peanut Butter and Honey</h1>
+
+<div id='table'>
+  <table>
+    <tr><h2>Peanut Butter</h2></tr>
+    <tr>
+      <th>Make</th><th>Description</th>
+    </tr>
+
+    {{#each peanutButter}}
+    <tr>
+      <td>{{make}}</td>
+      <td>{{description}}</td>
+    </tr>
+    {{/each}}
+
+  </table>
+  <table>
+    <tr><h2>Honey</h2></tr>
+    <tr>
+      <th>Make</th><th>Description</th>
+    </tr>
+
+    {{#each honey}}
+    <tr>
+      <td>{{make}}</td>
+      <td>{{description}}</td>
+    </tr>
+    {{/each}}
+  </table>
+</div>

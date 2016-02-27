@@ -1,0 +1,33 @@
+{
+  "peanutButter": [ {
+    "id": 1,
+    "make": "Eta",
+    "description": "Crunchy"
+    },
+    {
+      "id": 2,
+      "make": "Eta",
+      "description": "Crunchy"
+    },
+    {
+      "id": 3,
+      "make": "Eta",
+      "description": "Crunchy"
+    }
+  ],
+  "honey": [
+    {
+      "id": 4,
+      "make": "Bees",
+      "description": "clover"
+    },
+    {
+      "id": 5,
+      "make": "Honey!!!",
+      "description": "manuka"
+    }
+
+  ]
+
+
+}
