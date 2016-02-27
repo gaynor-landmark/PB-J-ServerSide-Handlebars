@@ -1,0 +1,27 @@
+{
+  "name": "PB-J-ServerSide-Handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaynor-landmark/PB-J-ServerSide-Handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaynor-landmark/PB-J-ServerSide-Handlebars/issues"
+  },
+  "homepage": "https://github.com/gaynor-landmark/PB-J-ServerSide-Handlebars#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "fs": "0.0.2",
+    "path": "^0.12.7"
+  }
+}
